@@ -30,7 +30,7 @@ public class DriverStream {
         intStream1.forEach(System.out::print);
         System.out.println();
         Pattern.compile(",").splitAsStream("mukesh").forEach(System.out::println);
-        Stream<String> stringStream = Stream.of("nirmal","likes","ritu").filter(x->x.contains("nirmal"));
+        Stream<String> stringStream = Stream.of("nirmal","nihar","ritu").filter(x->x.contains("nirmal"));
         Optional<String> optional = stringStream.findAny();
         System.out.println(optional.get());
         Stream.of("nirmal","nihar","ritu").skip(2).map(x->x.substring(2)).forEach(System.out::print);
