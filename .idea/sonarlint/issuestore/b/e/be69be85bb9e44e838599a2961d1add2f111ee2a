@@ -1,0 +1,6 @@
+
+t
+java:S1104"RMake radius a static final constant or non-public and provide accessors if needed.(õõìõüÿÿÿÿ8¿Íó£0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’×şÿÿÿÿ
+W
+java:S1161":Add the "@Override" annotation above this method signature(¤™–Å8‰€Ò0

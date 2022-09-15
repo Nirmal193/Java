@@ -1,0 +1,7 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’×şÿÿÿÿ
+m	java:S116	"SRename this field "DOT_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é‘ıÉşÿÿÿÿ
+<
+java:S1170	"!Make this final field static too.(é‘ıÉşÿÿÿÿ
+n
+java:S4144"XUpdate this method so that its implementation is not identical to "getWidth" on line 12.(ÖòŒÆ
